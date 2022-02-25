@@ -14,7 +14,7 @@ Changes
 ![Dark anf ligth mode](https://github.com/Feliphw/Web-Site-Rework/blob/Boomer/Layouts/Modes.jpg)
 
 ### New Navegation Bar 
-- Locais 
+Locais 
 - Bibliotecas
 - Corpos artísticos 
 - Museus 
